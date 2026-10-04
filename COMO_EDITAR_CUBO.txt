@@ -1,0 +1,164 @@
+CUBO REFORMAS — GUÍA DE EDICIÓN FÁCIL
+======================================
+
+Esta web está preparada para que puedas hacer cambios básicos sin saber programación.
+
+1. CAMBIAR EL LOGO
+------------------
+Dentro de la carpeta "images" encontrarás:
+
+- logo-cubo-blanco.svg
+- logo-cubo-azul.svg
+
+Para cambiar el logo:
+1) Prepara tu nuevo logo en SVG.
+2) Ponle exactamente el mismo nombre.
+3) Sustituye el archivo antiguo.
+4) No cambies el nombre del archivo.
+
+El logo blanco se usa sobre fondos oscuros.
+
+2. CAMBIAR LA FOTO PRINCIPAL DEL HERO
+-------------------------------------
+Archivo:
+images/hero-apartamento-hd.jpg
+
+Para cambiarla:
+1) Prepara una foto horizontal.
+2) Recomendado: mínimo 1800 px de ancho.
+3) Llámala exactamente: hero-apartamento-hd.jpg
+4) Sustituye el archivo.
+
+No hace falta editar código.
+
+3. CAMBIAR LA FOTO DE "TRANQUILIDAD, CALIDAD..."
+------------------------------------------------
+Archivo:
+images/feature-apartment-hd.jpg
+
+Haz lo mismo: sustituye la imagen conservando ese nombre.
+
+4. CAMBIAR FOTOS DE SERVICIOS
+-----------------------------
+Archivos:
+- images/servicio-integral.jpg
+- images/servicio-parcial.jpg
+- images/servicio-cocina.jpg
+- images/servicio-bano.jpg
+- images/servicio-otro.jpg
+
+Sustituye cualquiera manteniendo exactamente su nombre.
+
+5. CAMBIAR WHATSAPP, INSTAGRAM O EMAIL
+--------------------------------------
+Abre el archivo:
+config.js
+
+Verás:
+
+whatsapp: "34664799889"
+instagram: "..."
+email: "info.cuboreformas@gmail.com"
+
+Cambia solamente lo que está entre comillas.
+
+IMPORTANTE:
+- WhatsApp debe llevar prefijo del país y solo números.
+- España: 34 + número.
+- No borres comas, llaves ni comillas.
+
+6. PUBLICAR CAMBIOS DESPUÉS
+---------------------------
+Cuando la web esté en GitHub Pages:
+- podrás subir el nuevo archivo desde el navegador;
+- GitHub actualizará automáticamente la web;
+- no necesitarás volver a crear la landing.
+
+CONSEJO
+-------
+Antes de sustituir una imagen o logo, guarda una copia del archivo anterior por si quieres volver atrás.
+
+
+7. FORMULARIO DE PRESUPUESTO
+----------------------------
+El formulario ya NO abre Outlook ni ninguna aplicación de correo.
+
+Cuando un cliente pulsa "Solicitar presupuesto gratuito":
+- los datos se envían desde la propia landing;
+- tú los recibes en info.cuboreformas@gmail.com;
+- el cliente permanece en la página y ve un mensaje de confirmación.
+
+IMPORTANTE — PRIMERA ACTIVACIÓN
+-------------------------------
+La primera vez que se pruebe el formulario, el servicio de envío puede mandar
+un correo de activación a info.cuboreformas@gmail.com.
+
+Solo hay que abrir ese correo y confirmar una vez.
+Después los formularios se enviarán normalmente.
+
+Si en el futuro cambias el email en config.js, tendrás que confirmar de nuevo
+el nuevo correo receptor.
+
+
+8. GALERÍAS DE SERVICIOS
+------------------------
+Cada galería está preparada para mostrar 10 imágenes.
+
+Antes de lanzar campañas, lo ideal es sustituir las imágenes de referencia
+por fotografías reales de trabajos de CUBO Reformas.
+
+Las galerías disponibles son:
+- Reforma integral
+- Reforma parcial
+- Cocina
+- Baño
+- Otro
+
+
+9. CAMBIAR LAS FOTOS DE LAS GALERÍAS SIN TOCAR CÓDIGO
+-----------------------------------------------------
+No necesitas abrir script.js ni index.html.
+
+Dentro de:
+images/galerias/
+
+verás estas carpetas:
+- integral
+- parcial
+- cocina
+- bano
+- otro
+
+Cada carpeta tiene 10 imágenes llamadas:
+01.jpg
+02.jpg
+03.jpg
+04.jpg
+05.jpg
+06.jpg
+07.jpg
+08.jpg
+09.jpg
+10.jpg
+
+Para cambiar una foto:
+1) Entra en la carpeta del tipo de reforma.
+2) Sustituye, por ejemplo, 03.jpg por tu nueva foto.
+3) La nueva foto DEBE llamarse exactamente 03.jpg.
+4) Guarda/sube el archivo.
+5) La web mostrará automáticamente la nueva imagen.
+
+Ejemplo:
+Para cambiar la quinta foto de la galería de cocinas:
+images/galerias/cocina/05.jpg
+
+RECOMENDACIÓN PARA LAS FOTOS:
+- formato horizontal siempre que sea posible;
+- JPG;
+- mínimo 1200 px de ancho;
+- evita imágenes demasiado pesadas;
+- utiliza fotografías reales de tus trabajos cuando las tengas.
+
+IMPORTANTE:
+No cambies el nombre de las carpetas ni de los archivos 01.jpg a 10.jpg.
+Así podrás actualizar la web sin saber programación.

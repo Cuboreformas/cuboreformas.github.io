@@ -1,0 +1,17 @@
+PRUEBA DEL FORMULARIO — CUBO REFORMAS
+=====================================
+
+El formulario está configurado para enviar las solicitudes a:
+info.cuboreformas@gmail.com
+
+IMPORTANTE:
+1. El servicio FormSubmit exige confirmar el correo receptor la primera vez.
+2. Haz un envío de prueba.
+3. Revisa la bandeja de entrada Y la carpeta Spam/Correo no deseado de info.cuboreformas@gmail.com.
+4. Busca el correo de activación de FormSubmit y pulsa el enlace de confirmación.
+5. Después vuelve a enviar el formulario de prueba.
+
+FormSubmit indica que, mientras el formulario no está activado, envía correos de activación
+y conserva temporalmente las solicitudes pendientes.
+
+Para la prueba definitiva, hazla cuando la web ya esté publicada en su URL pública.

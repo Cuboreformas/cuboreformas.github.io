@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 265 205" role="img" aria-label="CUBO Reformas">
+<g fill="none" stroke="#062B46" stroke-width="10.5" stroke-linecap="round" stroke-linejoin="round">
+<path d="M86 16L151 53L86 90L21 53Z"/>
+<path d="M21 53V135L86 173V90"/>
+<path d="M151 53V135L131 147L109 135L109 158L86 173"/>
+</g>
+<text x="86" y="196" text-anchor="middle" fill="#062B46" font-family="Arial, Helvetica, sans-serif" font-size="44" font-weight="800" letter-spacing="4">CUBO</text>
+<text x="86" y="219" text-anchor="middle" fill="#062B46" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="400" letter-spacing="7">REFORMAS</text>
+</svg>

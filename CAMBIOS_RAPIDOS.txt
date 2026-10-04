@@ -1,0 +1,33 @@
+CUBO REFORMAS — CAMBIOS RÁPIDOS
+================================
+
+CAMBIAR LOGO
+images/logo-cubo-blanco.svg
+images/logo-cubo-azul.svg
+
+CAMBIAR FOTO PRINCIPAL
+images/hero-apartamento-hd.jpg
+
+CAMBIAR FOTO SECCIÓN "TRANQUILIDAD..."
+images/feature-apartment-hd.jpg
+
+CAMBIAR GALERÍA COCINA
+images/galerias/cocina/01.jpg ... 10.jpg
+
+CAMBIAR GALERÍA BAÑO
+images/galerias/bano/01.jpg ... 10.jpg
+
+CAMBIAR GALERÍA REFORMA INTEGRAL
+images/galerias/integral/01.jpg ... 10.jpg
+
+CAMBIAR GALERÍA REFORMA PARCIAL
+images/galerias/parcial/01.jpg ... 10.jpg
+
+CAMBIAR GALERÍA OTRO
+images/galerias/otro/01.jpg ... 10.jpg
+
+CAMBIAR WHATSAPP / INSTAGRAM / EMAIL
+config.js
+
+Regla principal:
+Sustituye el archivo, pero conserva exactamente su mismo nombre.
